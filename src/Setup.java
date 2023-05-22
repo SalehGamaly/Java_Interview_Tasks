@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Setup {
+public class Setup {
+
+    // Antares
 }
