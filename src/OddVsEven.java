@@ -4,19 +4,19 @@ public class OddVsEven {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); // scanner , so the user can enter his/her number
 
-        System.out.println("Enter your number");
+        System.out.println("Enter your number");  // console
 
-        int num = input.nextInt();
+        int num = input.nextInt(); // enters -> int num
 
-        if (num %2 == 0){
+        if (num %2 == 0){    // remainder
             System.out.println("Even");
         }else{
             System.out.println("Odd");
         }
 
-        input.close();
+        input.close(); //closing the scanner
 
     }
 }

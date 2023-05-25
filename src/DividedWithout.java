@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class DividedWithout {
@@ -14,14 +15,21 @@ public class DividedWithout {
 
         int divisible = 0;
 
+        if(num2 == 0){
+            System.out.println("Invalid number");
+        }
+
         while (num1 >= num2){
             num1 -= num2;
             divisible++;
         }
 
-        System.out.println(divisible);
+        System.out.println(num1 + " is the remainder");
+
+        System.out.println(divisible + " is the result");
 
         input.close();
+
 
     }
 }
