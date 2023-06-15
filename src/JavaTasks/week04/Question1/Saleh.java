@@ -18,6 +18,7 @@ public class Saleh {
         char[] charArr1 = str1.toCharArray();
         char[] charArr2 = str2.toCharArray();
 
+
         Arrays.sort(charArr1);
         Arrays.sort(charArr2);
 

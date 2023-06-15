@@ -16,6 +16,7 @@ public class Saleh {
 
         for (char eachChar : str.toCharArray()) {
             set.add(eachChar);
+
         }
 
         String newStr = "";
