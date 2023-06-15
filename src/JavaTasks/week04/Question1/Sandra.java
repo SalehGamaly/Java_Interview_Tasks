@@ -28,7 +28,7 @@ public class Sandra {
 
     public static void main(String[] args) {
 
-        System.out.println(same("tree", "rwet"));
+        System.out.println(same("tree", "reet"));
 
     }
 
