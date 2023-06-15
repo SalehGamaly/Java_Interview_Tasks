@@ -15,9 +15,8 @@ public class Saleh {
     }
     public static boolean sameLetters(String str1, String str2) {
 
-        char[] charArr1 = str1.toCharArray();
-        char[] charArr2 = str2.toCharArray();
-
+        char[] charArr1 = str1.toLowerCase().toCharArray();
+        char[] charArr2 = str2.toLowerCase().toCharArray();
 
         Arrays.sort(charArr1);
         Arrays.sort(charArr2);

@@ -16,7 +16,6 @@ public class Saleh {
 
         for (char eachChar : str.toCharArray()) {
             set.add(eachChar);
-
         }
 
         String newStr = "";
@@ -25,8 +24,6 @@ public class Saleh {
         }
         return newStr;
     }
-
-
 
     public static void main(String[] args) {
 
