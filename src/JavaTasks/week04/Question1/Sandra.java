@@ -1,4 +1,6 @@
-public class SameLetters {
+package JavaTasks.week04.Question1;
+
+public class Sandra {
 
 
 
