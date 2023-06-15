@@ -1,4 +1,6 @@
-public class RemoveDuplicates {
+package JavaTasks.week04.Question2;
+
+public class Sandra {
 
     public static String removeDuplicates(String str){
 

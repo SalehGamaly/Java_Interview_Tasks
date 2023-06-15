@@ -1,4 +1,6 @@
-public class FrequencyOfCharacters {
+package JavaTasks.week04.Question3;
+
+public class Sandra {
 
 
     public static void main(String[] args) {
