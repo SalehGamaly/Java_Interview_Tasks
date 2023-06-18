@@ -2,9 +2,9 @@ package JavaTasks.Week2.Question1;
 
 public class Leena {
       /*
-    Swap Numbers
+    JavaTasks.Week2.Question1.Swap Numbers
 
-    Swap two variable' values without using a third variable
+    JavaTasks.Week2.Question1.Swap two variable' values without using a third variable
      */
 
     public static void swapNumbers(int num1, int num2){

@@ -1,3 +1,5 @@
+package JavaTasks.Week3.Question1;
+
 import java.util.Scanner;
 
 public class PrimeNumber {
