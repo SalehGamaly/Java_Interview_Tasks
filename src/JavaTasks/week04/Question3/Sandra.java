@@ -9,7 +9,7 @@ public class Sandra {
 //Write a return method that can find the frequency of characters
 //Ex: FrequencyOfChars("AAABBCDD") ==> A3B2C1D2
 
-        System.out.println(frequencyOfCharacters("AAABBCDD"));
+        System.out.println(frequencyOfCharacters("AAABDDKKFHIUNNEICCCCCCCCCCCCCCCCCCCCCCDD"));
 
 
     }
