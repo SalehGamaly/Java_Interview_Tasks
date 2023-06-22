@@ -1,4 +1,6 @@
-public class SameLetters {
+package JavaTasks.week04.Question1;
+
+public class Sandra {
 
 
 
@@ -26,7 +28,7 @@ public class SameLetters {
 
     public static void main(String[] args) {
 
-        System.out.println(same("tree", "rwet"));
+        System.out.println(same("tree", "reet"));
 
     }
 
