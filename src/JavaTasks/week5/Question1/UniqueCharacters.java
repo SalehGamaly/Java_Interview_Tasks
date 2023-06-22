@@ -8,7 +8,7 @@ public class UniqueCharacters {
 
         for (int i = 0; i < str.length(); i++) {
 
-            char ch = str.charAt(i); // a
+            char ch = str.charAt(i);
             int frequency = 0;
 
             for (int j = 0; j < str.length(); j++) { // check how many times the ch has appeared in str
