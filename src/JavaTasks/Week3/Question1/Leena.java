@@ -3,7 +3,7 @@ package JavaTasks.Week3.Question1;
 public class Leena {
     /*
 
-   Numbers -- PrimeNumber
+   Numbers -- JavaTasks.Week3.Question1.PrimeNumber
    Write a method that can check if a number is prime or not
 
     */

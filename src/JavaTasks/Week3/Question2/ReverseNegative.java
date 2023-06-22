@@ -1,3 +1,5 @@
+package JavaTasks.Week3.Question2;
+
 public class ReverseNegative {
 
     public static long reversedNegative(int num) {
