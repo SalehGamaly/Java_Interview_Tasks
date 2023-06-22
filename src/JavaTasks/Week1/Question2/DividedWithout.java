@@ -1,3 +1,5 @@
+package JavaTasks.Week1.Question2;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

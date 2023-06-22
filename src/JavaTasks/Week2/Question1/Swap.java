@@ -1,3 +1,5 @@
+package JavaTasks.Week2.Question1;
+
 public class Swap {
 
     public static void main(String[] args) {
@@ -15,6 +17,6 @@ public class Swap {
     }
 }
 /*
-Numbers -- Swap Numbers
-Swap two variable' values without using a third variable
+Numbers -- JavaTasks.Week2.Question1.Swap Numbers
+JavaTasks.Week2.Question1.Swap two variable' values without using a third variable
  */

@@ -1,3 +1,5 @@
+package JavaTasks.Week2.Question2;
+
 import java.awt.*;
 import java.util.Arrays;
 
