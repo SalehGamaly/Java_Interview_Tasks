@@ -1,3 +1,5 @@
+package JavaTasks.Week2.Question3;
+
 public class ConsecutiveNums {
     public static void main(String[] args) {
 

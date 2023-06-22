@@ -1,3 +1,5 @@
+package JavaTasks.Week1.Question1;
+
 import java.util.Scanner;
 
 public class OddVsEven {
