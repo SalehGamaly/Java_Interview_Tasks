@@ -14,8 +14,8 @@ public class Saleh {
     public static void main(String[] args) {
 
         //System.out.println("reverseString(\"ABCDE\") = " + reverseString1("ABCDE"));
-        System.out.println("reverseString2(\"FGHIJKL\") = " + reverseString2("FGHIJKL"));
-        System.out.println("reverseString3(\"nopqr\") = " + reverseString3("nopqr"));
+        //System.out.println("reverseString2(\"FGHIJKL\") = " + reverseString2("FGHIJKL"));
+        //System.out.println("reverseString3(\"nopqr\") = " + reverseString3("nopqr"));
     }
 
     public static String reverseString1(String str){
