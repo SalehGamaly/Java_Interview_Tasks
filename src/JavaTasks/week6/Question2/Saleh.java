@@ -5,7 +5,6 @@ public class Saleh {
 
         System.out.println("maxNumber = " + maxNumber(new int[]{5, 10, 13, 7, 20, 9}));
     }
-
     public static int maxNumber(int[] numArr){
 
         int max = numArr[0];
