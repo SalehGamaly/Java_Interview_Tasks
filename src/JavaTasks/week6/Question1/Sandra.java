@@ -1,4 +1,4 @@
-package week6.Question1;
+package JavaTasks.week6.Question1;
 
 public class Sandra {
 

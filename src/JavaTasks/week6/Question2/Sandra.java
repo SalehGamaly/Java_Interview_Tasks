@@ -1,6 +1,4 @@
-package week6.Question2;
-
-import java.lang.reflect.Array;
+package JavaTasks.week6.Question2;
 
 public class Sandra {
 
