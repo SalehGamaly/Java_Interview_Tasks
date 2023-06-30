@@ -1,4 +1,4 @@
-package week6.Question2;
+package JavaTasks.week6.Question2;
 
 import java.util.Arrays;
 
