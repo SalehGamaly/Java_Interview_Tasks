@@ -17,6 +17,7 @@ public static int sum(String str){
 
     return sum;
 }
+
 }
 /*
 3. Sum of digits in a string:
