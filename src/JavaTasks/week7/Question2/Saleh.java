@@ -21,6 +21,7 @@ arr = Sort(arr); ==>{ 7, 8, 9, 10};
                     int n = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = n;
+
                 }
             }
         }

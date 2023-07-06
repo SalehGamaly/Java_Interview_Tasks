@@ -7,7 +7,7 @@ public class Saleh {
 
     public static void main(String[] args) {
 
-        //System.out.println("maximumNumber({10, 15, 20, 5}) = " + maximumNumber(new int[]{10, 15, 20, 5}));
+        //System.out.println("maximumNumber({10 = " + maximumNumber(new int[]{10, 15, 20, 5}));
     }
     public static int maximumNumber(int[] numbers) {
 
