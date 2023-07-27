@@ -9,7 +9,7 @@ Ex: int[] arr = {10,20,7, 8, 90};
 arr = Sort(arr); ==> {90, 20, 10, 8, 7};
      */
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(sortdescendingArr(new int[] {10, 5, 7, 3, 1})));
+        System.out.println(Arrays.toString(sortdescendingArr(new int[] {10, 5,  25, 7, 3, 1})));
 
     }
     public static int[] sortdescendingArr(int[] arr){
