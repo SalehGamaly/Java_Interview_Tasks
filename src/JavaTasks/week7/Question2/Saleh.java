@@ -10,7 +10,7 @@ arr = Sort(arr); ==>{ 7, 8, 9, 10};
      */
 
     public static void main(String[] args) {
-        //System.out.println(Arrays.toString(sortAscendingArr(new int[] {10, 5, 7, 3, 1})));
+        System.out.println(Arrays.toString(sortAscendingArr(new int[] {10, 5, 7, 3, 1})));
     }
 
     public static int[] sortAscendingArr(int[] arr){
