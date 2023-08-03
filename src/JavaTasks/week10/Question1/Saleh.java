@@ -17,6 +17,7 @@ public class Saleh {
         arrayList.add(6);
 
         System.out.println(sortedArrList(arrayList));
+
     }
 
 public static ArrayList<Integer> sortedArrList(ArrayList<Integer> arrayList){
