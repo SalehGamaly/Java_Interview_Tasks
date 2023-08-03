@@ -33,6 +33,7 @@ public class Saleh {
                 if (arrListi < arrListj) {
                     arrayList.set(i, arrListj);
                     arrayList.set(j, temporary);
+
                 }
 
             }
